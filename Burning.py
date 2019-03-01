@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
+
 
 # python 3.3.2+ XBurner DDos
 # only for legal purpose
