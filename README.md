@@ -6,6 +6,7 @@ usage : python3 Burning.py [-s] [-p] [-t]
 
 	-s : server ip
 
-        -p : port default 80
+    -p : port default 80
 
 	-t : turbo default 135
+ 
